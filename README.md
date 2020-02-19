@@ -1,1 +1,1 @@
-# johannlilly.github.io
+# Static website for Johann Lilly
