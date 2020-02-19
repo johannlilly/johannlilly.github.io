@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a);t.default=function(){return c.a.createElement("div",null,c.a.createElement("h1",null,"I made a static website with GitHub.io"),c.a.createElement("p",null,"I'm using Gatsby. It's pretty cool, because I can use React."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-be5cbf49c30f5acd78fd.js.map
